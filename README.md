@@ -3,7 +3,7 @@ Uma biblioteca que lista todos os estados brasileiros em uma tag select usando a
 
 # Utilização
 
-Voçê deve criar um tag select com uma class chamada estados apos isso deve importa o script.
+Voçê deve criar um tag select com uma class chamada estados apos isso deve-s importa o script.
 
 Além da impotação do script voce deve criar um instacia com class Estado
 
